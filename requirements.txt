@@ -1,0 +1,9 @@
+customtkinter>=5.2.0
+keyboard>=0.13.5
+pyperclip>=1.8.2
+cactus-needle>=0.1.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+scipy>=1.10.0
+# Windows native dependencies
+pywin32>=306; sys_platform == 'win32'
